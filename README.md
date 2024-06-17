@@ -1,9 +1,11 @@
-# Welcome to my profile!
+# Welcome to My GitHub Profile
 
-![GitHub stars](https://img.shields.io/github/stars/ZilongZhan?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ZilongZhan?style=social)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ZilongZhan)
-![GitHub issues](https://img.shields.io/github/issues/ZilongZhan)
-![GitHub contributors](https://img.shields.io/github/contributors/ZilongZhan)
-![GitHub license](https://img.shields.io/github/license/ZilongZhan)
+![Profile Views](https://komarev.com/ghpvc/?username=ZilongZhan)
+
+![ZilongZhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZilongZhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZilongZhan&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZilongZhan&theme=react-dark)
+
+Welcome to my GitHub profile! Here you'll find my projects and contributions to the open-source community.
+
 
